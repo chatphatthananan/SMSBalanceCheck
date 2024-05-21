@@ -1,0 +1,17 @@
+2024-05-20 21:37:11,485 INFO Insert into tLog and retrieve logID
+2024-05-20 21:37:12,079 INFO Created logID: cce6de53-8073-4979-b42a-273284357668
+2024-05-20 21:37:12,079 INFO Create web driver object.
+2024-05-20 21:37:13,276 INFO Web driver object created.
+2024-05-20 21:37:13,277 INFO Login OneWaySms platform
+2024-05-20 21:37:14,272 INFO Login successfully
+2024-05-20 21:37:14,272 INFO Getting credit balance.
+2024-05-20 21:37:14,647 INFO Log out sucessfully.
+2024-05-20 21:37:16,814 INFO Balance is above minimum level of 100.
+Credit Balance: 4816
+2024-05-20 21:37:19,206 INFO Updating tLog logID: cce6de53-8073-4979-b42a-273284357668 with status: 1
+2024-05-20 21:37:19,737 INFO Enter finally clause, check and close any web driver in the background.
+2024-05-20 21:37:23,809 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D785B5B130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b6a142f60f2ccc4141e91697a1403aed
+2024-05-20 21:37:27,858 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D785B5B220>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b6a142f60f2ccc4141e91697a1403aed
+2024-05-20 21:37:31,952 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D785B5B3D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b6a142f60f2ccc4141e91697a1403aed
+2024-05-20 21:37:40,096 INFO Detected web driver and closed it.
+Process ended.
